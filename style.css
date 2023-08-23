@@ -1,0 +1,47 @@
+body{
+    font-family: sans-serif;
+    margin-left: 5%;
+}
+
+h1{
+    font-size: 16px;
+    margin-top: 0%;
+    margin-bottom: 5%;
+}
+footer{
+    font-size: 15px;
+    margin-top: 5%;
+}
+
+.inicio{
+    background-color: white;
+    width: 400px;
+    border-radius: 8px;
+    padding: 20px 40px;
+    box-shadow: 0 10px 25px rgba(92, 99, 105, .2);
+}
+
+button{
+    background-color: #9867C5;
+    transform: translateY(-2px);
+    color: white;
+    margin-left: 6%;
+    text-align: center;
+}
+.logo{
+    width: 3%;
+}
+
+.titulo{
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+}
+
+.form {
+    background-color: white;
+    width: 400px;
+    border-radius: 8px;
+    padding: 20px 40px;
+    box-shadow: 0 10px 25px rgba(92, 99, 105, .2);
+  }
